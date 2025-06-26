@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 9774911b32950644781f29220061524d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8547554820897187957
+    second: Chevalier Logo_0
+  - first:
+      213: 7978297525679839117
+    second: Chevalier Logo_1
+  - first:
+      213: -5285245078756017230
+    second: Chevalier Logo_2
+  - first:
+      213: 5832622139939175336
+    second: Chevalier Logo_3
+  - first:
+      213: 4793652248161583741
+    second: Chevalier Logo_4
+  - first:
+      213: -4668923077733558433
+    second: Chevalier Logo_5
+  - first:
+      213: 6492956077052538696
+    second: Chevalier Logo_6
+  - first:
+      213: 8398074815937496744
+    second: Chevalier Logo_7
+  - first:
+      213: 5655171226230601577
+    second: Chevalier Logo_8
+  - first:
+      213: 6386217545754952072
+    second: Chevalier Logo_9
+  - first:
+      213: 5050167389059598295
+    second: Chevalier Logo_10
+  - first:
+      213: -2173352587858268698
+    second: Chevalier Logo_11
+  - first:
+      213: 3881322545030704810
+    second: Chevalier Logo_12
+  - first:
+      213: -1558037752818944266
+    second: Chevalier Logo_13
+  - first:
+      213: -1302691087932022406
+    second: Chevalier Logo_14
+  - first:
+      213: -2027171676110991903
+    second: Chevalier Logo_15
+  - first:
+      213: -3699017475575084449
+    second: Chevalier Logo_16
+  - first:
+      213: -1909289352107318383
+    second: Chevalier Logo_17
+  - first:
+      213: 3782110224083277937
+    second: Chevalier Logo_18
+  - first:
+      213: 4821977593710909706
+    second: Chevalier Logo_19
+  - first:
+      213: 2882813226634861247
+    second: Chevalier Logo_20
+  - first:
+      213: 7533017993199369807
+    second: Chevalier Logo_21
+  - first:
+      213: 3151905186392985504
+    second: Chevalier Logo_22
+  - first:
+      213: 6497145908449966463
+    second: Chevalier Logo_23
+  - first:
+      213: -449390758586007679
+    second: Chevalier Logo_24
+  - first:
+      213: 3410647748970883956
+    second: Chevalier Logo_25
+  - first:
+      213: -3867537648159916194
+    second: Chevalier Logo_26
+  - first:
+      213: 5105091252369643219
+    second: Chevalier Logo_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chevalier Logo_0
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 200
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87de326d2cf06980800000000000000
+      internalID: -8547554820897187957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 202
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87568a245b98be60800000000000000
+      internalID: 7978297525679839117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_2
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 202
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbbdd17a9907a6b0800000000000000
+      internalID: -5285245078756017230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 280
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab37280fe2a1f050800000000000000
+      internalID: 5832622139939175336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_4
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 200
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d728c646259768240800000000000000
+      internalID: 4793652248161583741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 199
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f575114a237a43fb0800000000000000
+      internalID: -4668923077733558433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 200
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2ee2a62d9b1a50800000000000000
+      internalID: 6492956077052538696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_7
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 202
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6cb19dc84fb8470800000000000000
+      internalID: 8398074815937496744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 200
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9673c7394443b7e40800000000000000
+      internalID: 5655171226230601577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_9
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 202
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814711b50760a850800000000000000
+      internalID: 6386217545754952072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_10
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 245
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7c821cb7cc51640800000000000000
+      internalID: 5050167389059598295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_11
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 200
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed28051653b6d1e0800000000000000
+      internalID: -2173352587858268698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae25436a4a3dd530800000000000000
+      internalID: 3881322545030704810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 36
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6349c2becb06ae0800000000000000
+      internalID: -1558037752818944266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_14
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71aeb38b59ebede0800000000000000
+      internalID: -1302691087932022406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_15
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 35
+        width: 61
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edcbaad91a0ed3e0800000000000000
+      internalID: -2027171676110991903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 37
+        width: 113
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a826644337aacc0800000000000000
+      internalID: -3699017475575084449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 37
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193253a3377d085e0800000000000000
+      internalID: -1909289352107318383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 10
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1785bd7d531cc7430800000000000000
+      internalID: 3782110224083277937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 37
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091804d21b1be240800000000000000
+      internalID: 4821977593710909706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_20
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 37
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba5e571b5fc10820800000000000000
+      internalID: 2882813226634861247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_21
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 35
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e364304f7aa8860800000000000000
+      internalID: 7533017993199369807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 35
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af4aa84111ddbb20800000000000000
+      internalID: 3151905186392985504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_23
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 35
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79fa07c7cf7a2a50800000000000000
+      internalID: 6497145908449966463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_24
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 35
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f332d6c7173c9f0800000000000000
+      internalID: -449390758586007679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_25
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 35
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b256bae0e055f20800000000000000
+      internalID: 3410647748970883956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_26
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 35
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7af5000fb35ac0800000000000000
+      internalID: -3867537648159916194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chevalier Logo_27
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 35
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d65273327de8d640800000000000000
+      internalID: 5105091252369643219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chevalier Logo_0: -8547554820897187957
+      Chevalier Logo_1: 7978297525679839117
+      Chevalier Logo_10: 5050167389059598295
+      Chevalier Logo_11: -2173352587858268698
+      Chevalier Logo_12: 3881322545030704810
+      Chevalier Logo_13: -1558037752818944266
+      Chevalier Logo_14: -1302691087932022406
+      Chevalier Logo_15: -2027171676110991903
+      Chevalier Logo_16: -3699017475575084449
+      Chevalier Logo_17: -1909289352107318383
+      Chevalier Logo_18: 3782110224083277937
+      Chevalier Logo_19: 4821977593710909706
+      Chevalier Logo_2: -5285245078756017230
+      Chevalier Logo_20: 2882813226634861247
+      Chevalier Logo_21: 7533017993199369807
+      Chevalier Logo_22: 3151905186392985504
+      Chevalier Logo_23: 6497145908449966463
+      Chevalier Logo_24: -449390758586007679
+      Chevalier Logo_25: 3410647748970883956
+      Chevalier Logo_26: -3867537648159916194
+      Chevalier Logo_27: 5105091252369643219
+      Chevalier Logo_3: 5832622139939175336
+      Chevalier Logo_4: 4793652248161583741
+      Chevalier Logo_5: -4668923077733558433
+      Chevalier Logo_6: 6492956077052538696
+      Chevalier Logo_7: 8398074815937496744
+      Chevalier Logo_8: 5655171226230601577
+      Chevalier Logo_9: 6386217545754952072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
