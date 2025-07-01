@@ -1,25 +1,7 @@
 fileFormatVersion: 2
 guid: e3d2fcfb5428b1c4abe3bdbe4d1171ba
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -7854738478779454800
-    second: Slime-Idle_0
-  - first:
-      213: 7952265997143392756
-    second: Slime-Idle_1
-  - first:
-      213: 6747045714855932814
-    second: Slime-Idle_2
-  - first:
-      213: -3550793042933452877
-    second: Slime-Idle_3
-  - first:
-      213: -6526498319472173233
-    second: Slime-Idle_4
-  - first:
-      213: -4731837845194634399
-    second: Slime-Idle_5
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Slime-Idle_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 36
+        x: 40
         y: 42
-        width: 25
-        height: 13
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ba22c048fc5ef290800000000000000
-      internalID: -7854738478779454800
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime-Idle_1
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 136
+        x: 140
         y: 42
-        width: 25
-        height: 17
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f1462f9acf1c5e60800000000000000
-      internalID: 7952265997143392756
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime-Idle_2
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 236
+        x: 240
         y: 42
-        width: 25
-        height: 19
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e833f4d845252ad50800000000000000
-      internalID: 6747045714855932814
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime-Idle_3
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 336
+        x: 340
         y: 42
-        width: 25
-        height: 19
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3bfe5055a8c09bec0800000000000000
-      internalID: -3550793042933452877
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime-Idle_4
+      name: Knight-Idle_4
       rect:
         serializedVersion: 2
-        x: 436
+        x: 440
         y: 42
-        width: 25
-        height: 17
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f4f5da87b583d65a0800000000000000
-      internalID: -6526498319472173233
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Slime-Idle_5
+      name: Knight-Idle_5
       rect:
         serializedVersion: 2
-        x: 535
+        x: 540
         y: 42
-        width: 27
-        height: 13
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16b8c66dc82255eb0800000000000000
-      internalID: -4731837845194634399
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -272,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

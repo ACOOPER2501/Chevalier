@@ -1,31 +1,7 @@
 fileFormatVersion: 2
 guid: 7a5fe0cd317cb534b9d8dc94f37d4858
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 2710983885293062031
-    second: Armored Skeleton-Walk_0
-  - first:
-      213: -7164609891766170607
-    second: Armored Skeleton-Walk_1
-  - first:
-      213: -5087492703569468959
-    second: Armored Skeleton-Walk_2
-  - first:
-      213: 8545836266742420685
-    second: Armored Skeleton-Walk_3
-  - first:
-      213: 6730639908085107963
-    second: Armored Skeleton-Walk_4
-  - first:
-      213: 7523471475845239554
-    second: Armored Skeleton-Walk_5
-  - first:
-      213: 710114164894718055
-    second: Armored Skeleton-Walk_6
-  - first:
-      213: 7448709844730987949
-    second: Armored Skeleton-Walk_7
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,35 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Armored Skeleton-Walk_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 41
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f8783b2fa795f9520800000000000000
-      internalID: 2710983885293062031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton-Walk_1
-      rect:
-        serializedVersion: 2
-        x: 146
+        x: 40
         y: 42
-        width: 19
-        height: 25
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,108 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 11c070f5341329c90800000000000000
-      internalID: -7164609891766170607
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Skeleton-Walk_2
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 246
-        y: 41
-        width: 19
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e1a95e37589569b0800000000000000
-      internalID: -5087492703569468959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton-Walk_3
-      rect:
-        serializedVersion: 2
-        x: 345
-        y: 40
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc415db8ec8e89670800000000000000
-      internalID: 8545836266742420685
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton-Walk_4
-      rect:
-        serializedVersion: 2
-        x: 445
-        y: 41
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bfc0b700659086d50800000000000000
-      internalID: 6730639908085107963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton-Walk_5
-      rect:
-        serializedVersion: 2
-        x: 545
-        y: 43
-        width: 20
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2031a8b327db86860800000000000000
-      internalID: 7523471475845239554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Skeleton-Walk_6
-      rect:
-        serializedVersion: 2
-        x: 645
+        x: 140
         y: 42
-        width: 20
-        height: 25
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 768d5841215dad900800000000000000
-      internalID: 710114164894718055
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Skeleton-Walk_7
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 745
-        y: 40
-        width: 20
-        height: 25
+        x: 240
+        y: 42
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +169,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da5452a83222f5760800000000000000
-      internalID: 7448709844730987949
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -322,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

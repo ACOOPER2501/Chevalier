@@ -1,25 +1,7 @@
 fileFormatVersion: 2
 guid: d2ffa7a0e5656564195c7469dcec375a
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 2221069426256087011
-    second: Werewolf-Death_0
-  - first:
-      213: -1686352667755371474
-    second: Werewolf-Death_1
-  - first:
-      213: -1652063477230099908
-    second: Werewolf-Death_2
-  - first:
-      213: -2828597431263079165
-    second: Werewolf-Death_3
-  - first:
-      213: -1795155497308497831
-    second: Werewolf-Death_4
-  - first:
-      213: 3821855319109557030
-    second: Werewolf-Death_5
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Werewolf-Death_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 40
         y: 42
-        width: 29
-        height: 18
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,64 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3e7897d10e2d2de10800000000000000
-      internalID: 2221069426256087011
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Werewolf-Death_1
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 138
-        y: 44
-        width: 30
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e24a860fe2fd898e0800000000000000
-      internalID: -1686352667755371474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Werewolf-Death_2
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 45
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c32ad4d3501b219e0800000000000000
-      internalID: -1652063477230099908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Werewolf-Death_3
-      rect:
-        serializedVersion: 2
-        x: 252
+        x: 140
         y: 42
-        width: 15
-        height: 8
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3055bf07f9dceb8d0800000000000000
-      internalID: -2828597431263079165
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Werewolf-Death_4
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 331
+        x: 240
         y: 42
-        width: 18
-        height: 12
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 958565a16935617e0800000000000000
-      internalID: -1795155497308497831
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Werewolf-Death_5
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 352
+        x: 340
         y: 42
-        width: 15
-        height: 8
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +191,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62b5676e925f90530800000000000000
-      internalID: 3821855319109557030
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -272,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

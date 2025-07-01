@@ -1,37 +1,7 @@
 fileFormatVersion: 2
 guid: d5eb985e19b8da04e99bf8d61c557297
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 5065144218681336704
-    second: Elite Orc-Death_0
-  - first:
-      213: -5670242377288045739
-    second: Elite Orc-Death_1
-  - first:
-      213: -4654832131575144583
-    second: Elite Orc-Death_2
-  - first:
-      213: -5478488178943842799
-    second: Elite Orc-Death_3
-  - first:
-      213: 2273375966953105404
-    second: Elite Orc-Death_4
-  - first:
-      213: 2103512864479474475
-    second: Elite Orc-Death_5
-  - first:
-      213: -3271702645377274501
-    second: Elite Orc-Death_6
-  - first:
-      213: -2505603481434339115
-    second: Elite Orc-Death_7
-  - first:
-      213: 6013396189072918827
-    second: Elite Orc-Death_8
-  - first:
-      213: -73974980488251999
-    second: Elite Orc-Death_9
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -78,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Elite Orc-Death_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 40
         y: 42
-        width: 30
-        height: 25
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 083ef92a4d10b4640800000000000000
-      internalID: 5065144218681336704
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elite Orc-Death_1
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 143
+        x: 140
         y: 42
-        width: 19
-        height: 27
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,86 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55b216f99904f41b0800000000000000
-      internalID: -5670242377288045739
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elite Orc-Death_2
-      rect:
-        serializedVersion: 2
-        x: 162
-        y: 50
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 97f9364b6d6b66fb0800000000000000
-      internalID: -4654832131575144583
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elite Orc-Death_3
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 52
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11620eb070088f3b0800000000000000
-      internalID: -5478488178943842799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elite Orc-Death_4
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
         x: 240
-        y: 54
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf76627a567ac8f10800000000000000
-      internalID: 2273375966953105404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elite Orc-Death_5
-      rect:
-        serializedVersion: 2
-        x: 247
         y: 42
-        width: 19
-        height: 23
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,64 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b2373cb2ecd213d10800000000000000
-      internalID: 2103512864479474475
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elite Orc-Death_6
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 266
-        y: 45
-        width: 13
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7de49b37c39892d0800000000000000
-      internalID: -3271702645377274501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elite Orc-Death_7
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 49
-        width: 10
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d8cf1da8ee4a3dd0800000000000000
-      internalID: -2505603481434339115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elite Orc-Death_8
-      rect:
-        serializedVersion: 2
-        x: 346
+        x: 340
         y: 42
-        width: 23
-        height: 17
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b29016f39ffd37350800000000000000
-      internalID: 6013396189072918827
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elite Orc-Death_9
+      name: Knight-Idle_4
       rect:
         serializedVersion: 2
-        x: 366
+        x: 440
         y: 42
-        width: 16
-        height: 11
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,8 +213,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a53bbda52039fef0800000000000000
-      internalID: -73974980488251999
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -372,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

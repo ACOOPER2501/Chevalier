@@ -1,31 +1,7 @@
 fileFormatVersion: 2
 guid: 9ee497a69a624044faad405c773db7db
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 2627294696224789840
-    second: Priest-Walk_0
-  - first:
-      213: -7512213230153046130
-    second: Priest-Walk_1
-  - first:
-      213: 830883647339762077
-    second: Priest-Walk_2
-  - first:
-      213: -5092062182813528432
-    second: Priest-Walk_3
-  - first:
-      213: 724282607026121063
-    second: Priest-Walk_4
-  - first:
-      213: -3025515330137168691
-    second: Priest-Walk_5
-  - first:
-      213: -7772827946506075600
-    second: Priest-Walk_6
-  - first:
-      213: 6891665544650684598
-    second: Priest-Walk_7
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,35 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Priest-Walk_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 43
-        y: 41
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0551fb03b96067420800000000000000
-      internalID: 2627294696224789840
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Priest-Walk_1
-      rect:
-        serializedVersion: 2
-        x: 143
+        x: 40
         y: 42
-        width: 18
-        height: 22
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e87ecbb5ed14fb790800000000000000
-      internalID: -7512213230153046130
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest-Walk_2
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 243
-        y: 41
-        width: 18
-        height: 22
+        x: 140
+        y: 42
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,63 +147,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d911e596644e78b00800000000000000
-      internalID: 830883647339762077
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest-Walk_3
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 343
-        y: 40
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09e03337c6c5559b0800000000000000
-      internalID: -5092062182813528432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Priest-Walk_4
-      rect:
-        serializedVersion: 2
-        x: 443
-        y: 41
-        width: 18
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76929c4913b2d0a00800000000000000
-      internalID: 724282607026121063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Priest-Walk_5
-      rect:
-        serializedVersion: 2
-        x: 543
-        y: 43
-        width: 18
+        x: 240
+        y: 42
+        width: 28
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -259,19 +169,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dc4ecac46d53306d0800000000000000
-      internalID: -3025515330137168691
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest-Walk_6
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 643
+        x: 340
         y: 42
-        width: 18
+        width: 28
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -281,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 032c6443a2e512490800000000000000
-      internalID: -7772827946506075600
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Priest-Walk_7
+      name: Knight-Idle_4
       rect:
         serializedVersion: 2
-        x: 743
-        y: 40
-        width: 18
-        height: 22
+        x: 440
+        y: 42
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,8 +213,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b8f3bb9c4d14af50800000000000000
-      internalID: 6891665544650684598
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -322,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

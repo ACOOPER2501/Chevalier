@@ -1,43 +1,7 @@
 fileFormatVersion: 2
 guid: a718bd316db31e44a9193e12b2b62cb6
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 3278099141674307103
-    second: Armored Axeman-Attack03_0
-  - first:
-      213: -4490794221273925662
-    second: Armored Axeman-Attack03_1
-  - first:
-      213: 8417823623452393003
-    second: Armored Axeman-Attack03_2
-  - first:
-      213: -3425016266205523758
-    second: Armored Axeman-Attack03_3
-  - first:
-      213: -8309786337943295957
-    second: Armored Axeman-Attack03_4
-  - first:
-      213: 1138099868556119928
-    second: Armored Axeman-Attack03_5
-  - first:
-      213: 2575367764614736565
-    second: Armored Axeman-Attack03_6
-  - first:
-      213: 5002146896925622571
-    second: Armored Axeman-Attack03_7
-  - first:
-      213: -4228032246326583683
-    second: Armored Axeman-Attack03_8
-  - first:
-      213: 5361570692971083653
-    second: Armored Axeman-Attack03_9
-  - first:
-      213: 1029063378197530443
-    second: Armored Axeman-Attack03_10
-  - first:
-      213: -828469596369824464
-    second: Armored Axeman-Attack03_11
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -70,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -146,12 +110,56 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Armored Axeman-Attack03_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 43
+        x: 40
         y: 42
-        width: 21
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 42
+        width: 28
         height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -161,108 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1e820e1dc52e7d20800000000000000
-      internalID: 3278099141674307103
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Axeman-Attack03_1
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 132
-        y: 39
-        width: 27
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e73791f27e7da1c0800000000000000
-      internalID: -4490794221273925662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_2
-      rect:
-        serializedVersion: 2
-        x: 232
-        y: 39
-        width: 27
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b2e75c96cfd12d470800000000000000
-      internalID: 8417823623452393003
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_3
-      rect:
-        serializedVersion: 2
-        x: 333
-        y: 38
-        width: 26
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d092e63ad5e770d0800000000000000
-      internalID: -3425016266205523758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_4
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 39
-        width: 39
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b28ee7f4a55bdac80800000000000000
-      internalID: -8309786337943295957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_5
-      rect:
-        serializedVersion: 2
-        x: 535
+        x: 340
         y: 42
-        width: 31
-        height: 29
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87fc430fcc75bcf00800000000000000
-      internalID: 1138099868556119928
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Axeman-Attack03_6
+      name: Knight-Idle_4
       rect:
         serializedVersion: 2
-        x: 635
+        x: 440
         y: 42
-        width: 22
-        height: 27
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ba6ad7465b8db320800000000000000
-      internalID: 2575367764614736565
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Axeman-Attack03_7
+      name: Knight-Idle_5
       rect:
         serializedVersion: 2
-        x: 735
-        y: 38
-        width: 43
-        height: 33
+        x: 540
+        y: 42
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,96 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b210399a9123b6540800000000000000
-      internalID: 5002146896925622571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_8
-      rect:
-        serializedVersion: 2
-        x: 845
-        y: 38
-        width: 41
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7e9ec2b2130355c0800000000000000
-      internalID: -4228032246326583683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_9
-      rect:
-        serializedVersion: 2
-        x: 945
-        y: 38
-        width: 49
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 587bfa07320286a40800000000000000
-      internalID: 5361570692971083653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_10
-      rect:
-        serializedVersion: 2
-        x: 1045
-        y: 38
-        width: 52
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b47c3d4b0b7f74e00800000000000000
-      internalID: 1029063378197530443
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Axeman-Attack03_11
-      rect:
-        serializedVersion: 2
-        x: 1145
-        y: 39
-        width: 29
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0355a21aa4fa084f0800000000000000
-      internalID: -828469596369824464
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -422,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

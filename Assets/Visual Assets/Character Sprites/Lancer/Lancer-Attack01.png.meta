@@ -1,25 +1,7 @@
 fileFormatVersion: 2
 guid: 7b908fc2cc2d31646b6a20f6cc4289f2
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 5522681744848178494
-    second: Lancer-Attack01_0
-  - first:
-      213: -6708531577894914344
-    second: Lancer-Attack01_1
-  - first:
-      213: -1994283690924745027
-    second: Lancer-Attack01_2
-  - first:
-      213: -4604392572929161787
-    second: Lancer-Attack01_3
-  - first:
-      213: -3386442953594845542
-    second: Lancer-Attack01_4
-  - first:
-      213: 4314818661027191417
-    second: Lancer-Attack01_5
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -66,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -128,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lancer-Attack01_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 32
+        x: 40
         y: 42
-        width: 51
-        height: 31
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e3dc53959c184ac40800000000000000
-      internalID: 5522681744848178494
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lancer-Attack01_1
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 132
+        x: 140
         y: 42
-        width: 49
-        height: 31
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d6351fb21286e2a0800000000000000
-      internalID: -6708531577894914344
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lancer-Attack01_2
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 232
+        x: 240
         y: 42
-        width: 48
-        height: 30
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dbe531d9c81e254e0800000000000000
-      internalID: -1994283690924745027
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lancer-Attack01_3
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 332
+        x: 340
         y: 42
-        width: 59
-        height: 31
+        width: 28
+        height: 21
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c54c1c9959e910c0800000000000000
-      internalID: -4604392572929161787
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lancer-Attack01_4
+      name: Knight-Idle_4
       rect:
         serializedVersion: 2
-        x: 432
+        x: 440
         y: 42
-        width: 57
-        height: 31
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a96cada6310f001d0800000000000000
-      internalID: -3386442953594845542
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lancer-Attack01_5
+      name: Knight-Idle_5
       rect:
         serializedVersion: 2
-        x: 532
+        x: 540
         y: 42
-        width: 55
-        height: 31
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,8 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 97a90c816b051eb30800000000000000
-      internalID: 4314818661027191417
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -272,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

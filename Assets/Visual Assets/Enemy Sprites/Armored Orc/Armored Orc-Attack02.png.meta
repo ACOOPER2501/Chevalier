@@ -1,31 +1,7 @@
 fileFormatVersion: 2
 guid: 9c2b1a21876d02745bb6a9a861019d35
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -2643352045602702403
-    second: Armored Orc-Attack02_0
-  - first:
-      213: 8229327738693769144
-    second: Armored Orc-Attack02_1
-  - first:
-      213: 6371529352200285787
-    second: Armored Orc-Attack02_2
-  - first:
-      213: -826065476494454831
-    second: Armored Orc-Attack02_3
-  - first:
-      213: -7738770147610276299
-    second: Armored Orc-Attack02_4
-  - first:
-      213: 2205035098243927629
-    second: Armored Orc-Attack02_5
-  - first:
-      213: 633954804131277189
-    second: Armored Orc-Attack02_6
-  - first:
-      213: 2171241362752424140
-    second: Armored Orc-Attack02_7
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -93,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Armored Orc-Attack02_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 41
+        x: 40
         y: 42
-        width: 27
-        height: 21
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +125,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dbb7c81d15de05bd0800000000000000
-      internalID: -2643352045602702403
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Orc-Attack02_1
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 141
+        x: 140
         y: 42
-        width: 33
-        height: 21
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,17 +147,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b75c1d3af1743270800000000000000
-      internalID: 8229327738693769144
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Orc-Attack02_2
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 241
+        x: 240
         y: 42
         width: 28
         height: 21
@@ -193,19 +169,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b5e6fd120383c6850800000000000000
-      internalID: 6371529352200285787
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Orc-Attack02_3
+      name: Knight-Idle_3
       rect:
         serializedVersion: 2
-        x: 341
+        x: 340
         y: 42
-        width: 24
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 28
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -215,41 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1df855863d93984f0800000000000000
-      internalID: -826065476494454831
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Armored Orc-Attack02_4
-      rect:
-        serializedVersion: 2
-        x: 441
-        y: 42
-        width: 24
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53eca417d8d5a9490800000000000000
-      internalID: -7738770147610276299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Orc-Attack02_5
+      name: Knight-Idle_5
       rect:
         serializedVersion: 2
         x: 540
         y: 42
-        width: 39
+        width: 28
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -259,52 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4e09143dbbd99e10800000000000000
-      internalID: 2205035098243927629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Orc-Attack02_6
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 42
-        width: 40
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 589a5e719824cc800800000000000000
-      internalID: 633954804131277189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Armored Orc-Attack02_7
-      rect:
-        serializedVersion: 2
-        x: 740
-        y: 42
-        width: 40
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc84e74048cc12e10800000000000000
-      internalID: 2171241362752424140
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -322,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

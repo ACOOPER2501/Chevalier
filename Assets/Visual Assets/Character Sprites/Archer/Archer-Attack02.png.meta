@@ -1,46 +1,7 @@
 fileFormatVersion: 2
 guid: b317263817ff56b43b82fe8adc3f150f
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 3284080105117198173
-    second: Archer-Attack02_0
-  - first:
-      213: -3439938975914402308
-    second: Archer-Attack02_1
-  - first:
-      213: -912804988329809371
-    second: Archer-Attack02_2
-  - first:
-      213: 4043648015451174233
-    second: Archer-Attack02_3
-  - first:
-      213: 3207939523946445512
-    second: Archer-Attack02_4
-  - first:
-      213: -6192626820240751074
-    second: Archer-Attack02_5
-  - first:
-      213: 6813110848568476234
-    second: Archer-Attack02_6
-  - first:
-      213: 9037808776163162503
-    second: Archer-Attack02_7
-  - first:
-      213: 885591647535973375
-    second: Archer-Attack02_8
-  - first:
-      213: 1121745840308116285
-    second: Archer-Attack02_9
-  - first:
-      213: 4165200713072231581
-    second: Archer-Attack02_10
-  - first:
-      213: 4070616125632327949
-    second: Archer-Attack02_11
-  - first:
-      213: -6889873451803610556
-    second: Archer-Attack02_12
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -73,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -87,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,10 +69,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -149,121 +110,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Archer-Attack02_0
+      name: Knight-Idle_0
       rect:
         serializedVersion: 2
-        x: 39
-        y: 39
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d57207fa475639d20800000000000000
-      internalID: 3284080105117198173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_1
-      rect:
-        serializedVersion: 2
-        x: 139
-        y: 39
-        width: 20
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cfdd99b1ab1e240d0800000000000000
-      internalID: -3439938975914402308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_2
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 39
-        width: 20
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 52aa56903b01553f0800000000000000
-      internalID: -912804988329809371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_3
-      rect:
-        serializedVersion: 2
-        x: 339
-        y: 39
-        width: 27
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9553ea5227ced1830800000000000000
-      internalID: 4043648015451174233
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_4
-      rect:
-        serializedVersion: 2
-        x: 436
-        y: 39
-        width: 30
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ca73c92004e48c20800000000000000
-      internalID: 3207939523946445512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_5
-      rect:
-        serializedVersion: 2
-        x: 536
-        y: 39
+        x: 40
+        y: 42
         width: 28
         height: 20
       alignment: 0
@@ -274,40 +125,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e164ef887be5f0aa0800000000000000
-      internalID: -6192626820240751074
+      spriteID: 5c8508a95aa4918d0800000000000000
+      internalID: -2875184811977189179
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer-Attack02_6
+      name: Knight-Idle_1
       rect:
         serializedVersion: 2
-        x: 636
-        y: 39
-        width: 30
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a42c84828380d8e50800000000000000
-      internalID: 6813110848568476234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_7
-      rect:
-        serializedVersion: 2
-        x: 736
-        y: 39
+        x: 140
+        y: 42
         width: 28
         height: 20
       alignment: 0
@@ -318,19 +147,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 789fc13923fbc6d70800000000000000
-      internalID: 9037808776163162503
+      spriteID: 88dae6f40b5a8f500800000000000000
+      internalID: 430275941079362952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer-Attack02_8
+      name: Knight-Idle_2
       rect:
         serializedVersion: 2
-        x: 836
-        y: 39
-        width: 26
+        x: 240
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fabc3b90a754f0e0800000000000000
+      internalID: -2237066767585461515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 42
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ebf3b6652cce800800000000000000
+      internalID: 643102523229453957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Idle_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 42
+        width: 28
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -340,19 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ff34f6f49e04a4c00800000000000000
-      internalID: 885591647535973375
+      spriteID: 3f9b271ca070178a0800000000000000
+      internalID: -6309253860192765453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Archer-Attack02_9
+      name: Knight-Idle_5
       rect:
         serializedVersion: 2
-        x: 936
-        y: 39
-        width: 57
+        x: 540
+        y: 42
+        width: 28
         height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -362,74 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d3b56d306ed319f00800000000000000
-      internalID: 1121745840308116285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_10
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 30
-        width: 65
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d94cfd8faf3cdc930800000000000000
-      internalID: 4165200713072231581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_11
-      rect:
-        serializedVersion: 2
-        x: 1136
-        y: 39
-        width: 23
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d01ba499ccbbd7830800000000000000
-      internalID: 4070616125632327949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Archer-Attack02_12
-      rect:
-        serializedVersion: 2
-        x: 1161
-        y: 29
-        width: 24
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 442f9d589904260a0800000000000000
-      internalID: -6889873451803610556
+      spriteID: d73ae56b3292485a0800000000000000
+      internalID: -6520041127165385859
       vertices: []
       indices: 
       edges: []
@@ -447,7 +254,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knight-Idle_0: -2875184811977189179
+      Knight-Idle_1: 430275941079362952
+      Knight-Idle_2: -2237066767585461515
+      Knight-Idle_3: 643102523229453957
+      Knight-Idle_4: -6309253860192765453
+      Knight-Idle_5: -6520041127165385859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
